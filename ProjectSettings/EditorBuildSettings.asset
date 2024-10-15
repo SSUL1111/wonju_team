@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/Title_WonjuStation.unity
+    guid: 154a2ec1e29964943a5526ae2875b3a6
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/StationToBus.unity
+    guid: c959263515086cc45ab3d6234920f0c6
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/SogeumMt1.unity
+    guid: acf9cd90142da504bbcb98c963b7af49
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/E Soguem Mt, Grand Valley/E Soguem
+      Mt, Grand Valley Introduction.unity
+    guid: 267e8f97ff2ff8f43a1797ee1686a1e8
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/E Soguem Mt, Grand Valley/Attraction,
+      Amusement, Food Introduction/E_A_Attraction_Amusement_Food_Introduction.unity
+    guid: e082631530ff95040945cf98cb8b135f
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/E Soguem Mt, Grand Valley/E_B_Soguem
+      Mt, Grand Valley Attraction.unity
+    guid: 8b2b88994f27c904da3de258bad883e9
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/E Soguem Mt, Grand Valley/E_C_Soguem
+      Mt, Grand Valley Amusement.unity
+    guid: 6c005fbb99fbe874a97f7432e69e3ff6
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/E Soguem Mt, Grand Valley/E_D_Soguem
+      Mt, Grand Valley Food.unity
+    guid: 20cf361fc36b0784fb8af6f0915b4ea3
+  - enabled: 1
+    path: Assets/Scenes/Mini Game One/E Soguem Mt, Grand Valley Game/Find Out.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mini Game One/E Soguem Mt, Grand Valley Game/stamp.unity
+    guid: 726d714e1a381dc4cb5b04f75271d18b
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/OakValley1.unity
+    guid: 3f1fae516cc23684ab1fb1d28469df33
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/F Oak Valley/F Oak Valley Introduction.unity
+    guid: 5956932372c5ed4428b2b634ed73d631
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/F Oak Valley/Attraction, Amusement,
+      Food Introduction/F_A_Attraction_Amusement_Food_Introduction.unity
+    guid: 39f9c2eae838d3243b92fa63342a987b
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/F Oak Valley/F_B_Oak Valley Attraction.unity
+    guid: 7f9623c93b0ffdb438892327276187b9
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/F Oak Valley/F_C_Oak Valley Amusement.unity
+    guid: 6b5df39e879e15f408aa2d0f721eaca6
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/F Oak Valley/F_D_Oak Valley Food.unity
+    guid: e44b43bc77717d442a1856a9dc7bb12e
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz1.unity
+    guid: fce50614f1e658e47bedbf469ce470f3
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz2.unity
+    guid: 99425eb8d51299242b0a35c1fa90ec2b
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz3.unity
+    guid: 04fc40d7824fa9841b5b4e280065ce93
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/stamp2.unity
+    guid: 3e62bbe0d1b0f734e9b7b6eb1495c606
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/MuseumMt1.unity
+    guid: fc0ff44477a0a3947b44f7303f8c134c
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/G Museum SAN/G Museum SAN Introduction.unity
+    guid: 6e2a9164569d64f458551baaf61b252d
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/G Museum SAN/Attraction, Amusement,
+      Food Introduction/G_A_Attraction_Amusement_Food_Introduction.unity
+    guid: 85eda762ef3efc54eb0b32bd393a7a08
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/G Museum SAN/G_Museum SAN Amusement.unity
+    guid: afc6b8223608dc94ab3dc3907a25a4d1
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/G Museum SAN/G_Museum SAN Attraction.unity
+    guid: 334dfc436fbe570488d78e7baee0410f
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/G Museum SAN/G_Museum SAN Food.unity
+    guid: b10cc23d4eea5b948bf8106b214d2feb
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz7.unity
+    guid: cfb3ef561baad734fa26d458c9f7987d
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz8.unity
+    guid: f7535998ea400ce4abf52d1b50a2aaa2
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz9.unity
+    guid: b327b41b1dddfa341825d5adcb54ceed
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/stamp4.unity
+    guid: bfa6854b094d05e4a862ed783b78eba6
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/Pandae1.unity
+    guid: 643ed8cb7af7d034c90294f91fd40c03
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/H Pandae Ice Park/H_PandaeIceParkIntroduction.unity
+    guid: bad8233053b9e7c46a1168981c48fb01
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/H Pandae Ice Park/Attraction, Amusement,
+      Food Introduction/H_A_Attraction_Amusement_Food_Introduction.unity
+    guid: 440cc2cc51cf6a14a9fa0362a27ef97a
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/H Pandae Ice Park/H_PandaeIceParkAttraction.unity
+    guid: 9adeec933cfaba74aa7072aa0e4bec21
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/H Pandae Ice Park/H_PandaeIceParkAmusement.unity
+    guid: 7ea9f27b20b88e54590d4d4fca081f85
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/H Pandae Ice Park/H_PandaeIceParkFood.unity
+    guid: a073f09d2c6875148961a7f953a44cca
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz4.unity
+    guid: 336d9201e62fac24e9c3da1f62a53e98
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz5.unity
+    guid: 661534041ba5e8c408253ce909586274
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/Quiz6.unity
+    guid: 09dfcaaf270c389428187b7719dffc60
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2/Scenes/stamp3.unity
+    guid: 595d8a2285db9f34b859ea8d4723254f
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Start1/Scenes/Gamyoung1.unity
+    guid: f42ed543e07501f4b8d537910ba09ae9
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/I Gangwon Gamyeong/I Gangwon Gamyeong
+      Introduction.unity
+    guid: cccbfc1ca724b874ebf3b48d30a486d0
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/I Gangwon Gamyeong/Attraction,
+      Amusement, Food Introduction/I_A_Attraction_Amusement_Food_Introduction.unity
+    guid: 739c7201737a29e4da33bd854ae2040e
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/I Gangwon Gamyeong/I Gangwon Gamyeong
+      Attraction.unity
+    guid: 743eae4300e6c2a498915fab814c93fc
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/I Gangwon Gamyeong/I Gangwon Gamyeong
+      Amusement.unity
+    guid: d20753dfc1683fc4fae99f8c1de795df
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Progress/Place/I Gangwon Gamyeong/I Gangwon Gamyeong
+      Food.unity
+    guid: 90c56b834a013854ebf6f84371edbb4f
+  - enabled: 1
+    path: Assets/Scenes/Mini Game One/Gangwongamyeong Provincial Office/Find Out2.unity
+    guid: e4ed98f2f7af93d4b8eebbe55716d7b2
+  - enabled: 1
+    path: Assets/Scenes/Mini Game One/Gangwongamyeong Provincial Office/stamp2.unity
+    guid: b3911f1ec832e5841a0a945922c12fa8
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Final/A.unity
+    guid: 45c92974852a71c42937373cdd1b5872
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Final/B.unity
+    guid: 12d90a8986928cb44badffac5059e3cf
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Final/C.unity
+    guid: e9bc7baf7e576b44993002f024334b72
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Final/D.unity
+    guid: 317157d49c71f844abfb86a648a94cc5
+  - enabled: 1
+    path: Assets/Scenes/Wonju Team Final/E.unity
+    guid: 02dcc84a04ef33a40aea2d8270d749c9
+  m_configObjects: {}
